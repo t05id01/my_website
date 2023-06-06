@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://gustavo-m-portfolio.netlify.app/
 languageCode: en-us
 title: Portfolio Website for Gustavo Mendonca
 theme: forty
@@ -8,8 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-    ##  A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-    #  AND RELEASED UNDER THE CREATIVE COMMONS.
+    A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+    AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Gustavo Mendonca
   blog: {}
   contact:
