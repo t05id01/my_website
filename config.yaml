@@ -1,6 +1,6 @@
 baseURL: https://gustavo-m-portfolio.netlify.app/
 languageCode: en-us
-title: Portfolio Website for Gustavo Mendonca
+title: Forty
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,24 +8,24 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-    A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-    AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Gustavo Mendonca
+      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Forty
   blog: {}
   contact:
     address:
-      - city: London
-        country: UK 
-        street: London Business School  
-        title: NW8 
+      - city: City, ST 00000
+        country: Country
+        street: Street
+        title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: gustavop.mba2024@london.edu
+      - email: example@domain.com
         title: Email
     enable: yes
     phone:
-      - phone: (44) 7849 841928
+      - phone: (000) 000-0000 x1234
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,28 +35,28 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Gustavo Mendonca
+    copyright: Company Name
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
-        url: 
+        url: https://www.html5up.net
     social:
-      #- icon: fa-twitter
-      #  label: Twitter
-      #  url: https://www.twitter.com
-      #- icon: fa-facebook
-      #  label: Facebook
-      #   url: https://www.facebook.com
-      # - icon: fa-instagram
-      #   label: Instagram
-      #   url: https://www.instagram.com
-      # - icon: fa-github
-      #   label: GitHub
-      #   url: https://github.com/t05id01
-       - icon: fa-linkedin
-         label: LinkedIn
-          url: https://www.linkedin.com/in/gustavo-mendon%C3%A7a-cfa-029575a0/
+      - icon: fa-twitter
+        label: Twitter
+        url: https://www.twitter.com
+      - icon: fa-facebook
+        label: Facebook
+        url: https://www.facebook.com
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com
+      - icon: fa-github
+        label: GitHub
+        url: https://www.github.com
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com
   image: ''
   name: Your name
   navigation:
@@ -69,7 +69,7 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: CV
+      - name: Blogs
         url: blogs
       - name: Generic Blog
         url: blogs/ipsum
