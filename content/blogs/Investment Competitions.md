@@ -15,4 +15,4 @@ title: Investment Competitions
 
 Investment Competition - London Business School, November 2022
 
-![My Image](lbs_competition.jpg)
+![My Image](lbs_competition.jpeg)
