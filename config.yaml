@@ -10,22 +10,22 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hello, my name is Gustavo
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London
+        country: UK
+        street: NW1
+        title: London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: gustavop.mba2024@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (44) 7849-841928
         title: Phone
   custom_css: []
   custom_js: []
