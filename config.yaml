@@ -81,7 +81,7 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: My professional Resumé
         title: CV
         url: blogs/CV
       - image: pic02.jpg
