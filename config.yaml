@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      MY PERSONAL PORTFOLIO AND JOURNEY AT LBS
     title: Hello, my name is Gustavo
   blog: {}
   contact:
@@ -41,22 +40,22 @@ params:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
-    social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
+    # social:
+    #   - icon: fa-twitter
+    #     label: Twitter
+    #     url: https://www.twitter.com
+    #   - icon: fa-facebook
+    #     label: Facebook
+    #     url: https://www.facebook.com
+    #   - icon: fa-instagram
+    #     label: Instagram
+    #     url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/t05id01
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/gustavo-mendon%C3%A7a-cfa-029575a0/
   image: ''
   name: Your name
   navigation:
