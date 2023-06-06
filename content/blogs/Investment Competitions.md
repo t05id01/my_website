@@ -7,7 +7,7 @@ description: ""
 draft: false
 image: 
 keywords: ""
-slug: Investment Competitions
+slug: Investment_Competitions
 title: Investment Competitions
 ---
 
