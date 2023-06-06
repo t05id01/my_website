@@ -40,7 +40,7 @@ params:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
-    # social:
+    social:
     #   - icon: fa-twitter
     #     label: Twitter
     #     url: https://www.twitter.com
@@ -82,8 +82,8 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        title: CV
+        url: blogs/CV
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
