@@ -89,9 +89,9 @@ params:
         title: Investment Competitions
         url: blogs/Investment_Competitions
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: My Masters Dissertation at FGV (Brazil)
+        title: Masters Dissertation
+        url: blogs/Masters_Dissertation
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
