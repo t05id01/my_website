@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       MY PERSONAL PORTFOLIO AND JOURNEY AT LBS
-    title: Hello, my name is Gustavo
+    title: Hello, my name is Gustavo Mendonça
   blog: {}
   contact:
     address:
@@ -66,14 +66,14 @@ params:
       - name: Log In
         url: '#'
     links:
-      - name: Home
-        url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: My CV
+        url: blogs/CV
+      - name: Competitions
+        url: blogs/Investment_Competitions
+      - name: Masters Dissertation
+        url: blogs/Masters_Dissertation
+      - name: Club Involvement
+        url: blogs/Club_Involvement
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
