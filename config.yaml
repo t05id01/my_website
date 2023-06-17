@@ -93,9 +93,9 @@ params:
         title: Masters Dissertation
         url: blogs/Masters_Dissertation
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: My participation in LBS Clubs
+        title: Club Involvement
+        url: blogs/Club_Involvement
       # - image: pic05.jpg
       #   subtitle: Ipsum Dolor Sit Amet
       #   title: Consequat
