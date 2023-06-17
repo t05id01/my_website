@@ -23,9 +23,13 @@ I spent over 9 months preparing this work and it was a very rewarding exercise w
 
 "The present work proposes an application of a non-parametric methodology to extract the risk-neutral probability density function (RND) to USD/BRL options. This methodology consists in complementing the RND extracted from the implied volatility smile with tails drawn from a GEV (generalized extreme value) distribution. These non-parametric risk-neutral densities are compared to parametric distributions that are frequently mentioned in the literature - specifically, the mixture of log-normal densities (MLN) and the generalized beta of second kind (GB2) - through a study of their moments. The present work proposes a straightforward methodology to apply the estimated moments for trading of USD/BRL futures, finding strategies that produce greater returns relative to a simple buy and hold strategy."
 
-*Sample comparison of the extraction of risk-neutral densities (RNDs) of FX options under 3 different methodologies* ![RND Sample](https://github.com/t05id01/my_website/blob/main/content/blogs/rnd_comparison.jpg?raw=true)
+*Sample comparison of the extraction of risk-neutral densities (RNDs) of FX options under 3 different methodologies*
 
-*Sample cumulative performance of trading strategies that use signals extracted from different Moments (skewness and variance, respectively) to trade USD/BRL futues* ![RND Sample](https://github.com/t05id01/my_website/blob/main/content/blogs/rnd_performance.jpg?raw=true)
+![RND Sample](https://github.com/t05id01/my_website/blob/main/content/blogs/rnd_comparison.jpg?raw=true)
+
+*Sample cumulative performance of trading strategies that use signals extracted from different Moments (skewness and variance, respectively) to trade USD/BRL futures*
+
+![RND Sample](https://github.com/t05id01/my_website/blob/main/content/blogs/rnd_performance.jpg?raw=true)
 
 *Main Conclusions of the work*
 
