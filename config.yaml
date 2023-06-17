@@ -80,19 +80,19 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: pic07.jpg
         subtitle: My professional Resumé
         title: CV
         url: blogs/CV
-      - image: pic02.jpg
+      - image: pic08.jpg
         subtitle: My involvement with graduate investment competitions
         title: Investment Competitions
         url: blogs/Investment_Competitions
-      - image: pic03.jpg
+      - image: pic09.jpg
         subtitle: My Masters Dissertation at FGV (Brazil)
         title: Masters Dissertation
         url: blogs/Masters_Dissertation
-      - image: pic04.jpg
+      - image: pic10.jpg
         subtitle: My participation in LBS Clubs
         title: Club Involvement
         url: blogs/Club_Involvement
