@@ -32,7 +32,7 @@ This competition had a focus on Fixed Income securities and was held virtually. 
 
 This was the first competition I participated, and it was held at the University of Virginia Darden in the US. We pitched PSA, an american self-storage company. It was a great learning experience and we got to travel to the US and interact with several students from other top business schools. 
 
-![LBS Competition](https://github.com/t05id01/my_website/blob/main/content/blogs/darden_competition.jpeg?raw=true)
+![LBS Competition](https://github.com/t05id01/my_website/blob/main/content/blogs/darden_competition.jpg?raw=true)
 
 
 
